@@ -70,8 +70,8 @@ header {
   max-width: 3rem;
 }
 .play span {
-  font-weight: 600;
   color: #4299b1;
+  font-weight: 600;
   margin-left: 1rem;
   letter-spacing: 1px;
 }
