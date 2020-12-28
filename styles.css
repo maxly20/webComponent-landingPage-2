@@ -164,10 +164,10 @@ header {
 }
 
 .trailer .close {
+  cursor: pointer;
   position: absolute;
   top: 4rem;
   right: 4rem;
-  cursor: pointer;
   max-width: 25px;
 }
 
@@ -176,8 +176,8 @@ header {
     background-size: 120%;
   }
   .content h2 {
-    font-size: 8rem;
     color: white;
+    font-size: 8rem;
     text-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
   }
 }
